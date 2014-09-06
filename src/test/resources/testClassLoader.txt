@@ -1,0 +1,2 @@
+org.robovm.RunnerClass#testMethod
+org.robovm.RunnerClass
